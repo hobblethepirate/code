@@ -1,0 +1,17 @@
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\bin\Debug\ChatGUI.exe
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\bin\Debug\ChatGUI.pdb
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.Form1.resources
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.Properties.Resources.resources
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.exe
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.pdb
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.exe
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.pdb
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\bin\Debug\ChatGUI.exe
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\bin\Debug\ChatGUI.pdb
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.csprojResolveAssemblyReference.cache
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.Form1.resources
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.Properties.Resources.resources
+C:\Users\Whitney\Desktop\legacy\ps6(12)\ChatGUI\obj\x86\Debug\ChatGUI.csproj.GenerateResource.Cache

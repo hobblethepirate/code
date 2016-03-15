@@ -1,0 +1,11 @@
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatGUI.exe
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatServer.exe
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatServer.pdb
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatGUI.pdb
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatGUI_Accessor.exe
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\bin\Debug\ChatGUI_Accessor.pdb
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Jimbob\Documents\Visual Studio 2010\Projects\ps6(12)\UnitTests\obj\Debug\UnitTests.pdb
