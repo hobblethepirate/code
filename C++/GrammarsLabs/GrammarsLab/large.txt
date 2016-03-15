@@ -1,0 +1,68 @@
+//Comments should work now
+
+//testing pre-processors
+using effects.shrink;
+using timers;
+using custom;
+#define UP
+#define DOWN 3
+#define DOWN 6
+//29
+//15 symbol entries
+main
+{
+//testing the removal of spaces in declarations
+	Map=custom.background;
+	Music=custom.music;
+	Actor a=template.actors.squirrel;
+	Actor b=template.actors.bat;
+	Actor c=custom.cat;
+	Actor d=custom.dog;
+
+//testing the removal of spaces in conditionals
+	if(a.moving==true)
+	{
+		c.move(DOWN,4,5);
+	}
+
+//testing one character conditionals with whitespace
+	if(a.positionX > b.positionY)
+	{
+		b.move(1,1,1);
+	}
+//testing one character conditionals with no whitespace
+	if(a.positionX>b.positionY)
+	{
+		b.move(1,DOWN,1);
+	} 
+	else 
+	{
+		b.move(5,5,5);
+	}
+//testing numbers
+
+	float y = 23.5;
+	int x = -3;
+	x=x+1;
+	y=y+0.5;
+	int z = 5;
+	z = GetLowest(x, z);
+
+//testing complex conditionals
+	if( b.isVisible == true && c.isVisible == true || d.isVisible == false)
+	{
+		d.move(3,1,5);
+	}
+}
+
+//testing functions
+int GetLowest(int lhs, int rhs)
+{
+	if(lhs > rhs)
+	{
+		return rhs;
+	} else {
+		return lhs;
+	}
+
+}

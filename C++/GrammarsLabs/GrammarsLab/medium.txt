@@ -1,0 +1,36 @@
+#define MONTH
+//23 blocks
+//8 symbol entries
+main
+{
+	first=3;
+	Map = templates.background.pirateship;
+	Music = templates.music.pirateship;
+	Actor pirate = templates.actors.pirate;
+	Actor captain = templates.actors.captain;
+	Camera first = templates.cameras.normal;
+	first.record();
+	first.Follow(pirate);
+	pirate.Position(15,0,5);
+	captain.Position(5,0,3);
+	pirate.Walk(10);
+	captain.Walk(7);
+	pirate.Speak(users.sound.intro);
+	captain.Speak(users.sound.intro2);
+	captain.Pose.Thinking();
+	bool changed = false;
+	while (changed == false)
+	{
+		if(Pirate.touched == true)
+		{
+			changed=true;
+			RunScene(Second);
+		}
+		else if(Captain.touched == true)
+		{
+			changed = true;
+			RunScene(third);
+		}
+	}
+	first.Stop();
+}

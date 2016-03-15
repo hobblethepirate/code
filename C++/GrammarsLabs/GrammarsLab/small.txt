@@ -1,0 +1,19 @@
+#define PI 3.1415
+//14 blocks
+//8 symbols
+main 
+{
+Map = templates.background.road;
+Music = default;
+Actor chicken1 = templates.actors.chicken;
+Actor chicken2 = templates.actors.chicken;
+Camera first = templates.cameras.normal;
+Camera second = templates.cameras.normal;
+first.follow(chicken1);
+second.follow(chicken2);
+chicken1.Action.Dance();
+first.Record(PI);
+first.Stop();
+second.Record(5);
+second.Stop();
+}
