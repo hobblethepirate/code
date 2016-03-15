@@ -1,0 +1,6 @@
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\bin\Debug\NetworkingClient.exe.config
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\obj\Debug\NetworkingClient.csprojResolveAssemblyReference.cache
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\bin\Debug\NetworkingClient.exe
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\bin\Debug\NetworkingClient.pdb
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\obj\Debug\NetworkingClient.exe
+c:\users\whitney\documents\visual studio 2013\Projects\NetworkingClient\NetworkingClient\obj\Debug\NetworkingClient.pdb
