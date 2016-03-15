@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member MemberId="1" FirstName="Dustin" LastName="Kerns" AddressLine1="3120 OIT Ave" AddressLine2=" Apt # 32" City="Wilsonville" State="Oregon" ZipCode="97070" PhoneNumber="5035553456">
+    <MemberBooks />
+  </Member>
+  <Member MemberId="2" FirstName="James" LastName="Shaver" AddressLine1="4321 James Shaver Lane" AddressLine2="Apartment 720" City="Wilsonville" State="Oregon" ZipCode="45351" PhoneNumber="4561234587">
+    <MemberBooks />
+  </Member>
+  <Member MemberId="3" FirstName="Michael" LastName="Luevane" AddressLine1="3899 Leuvanne Road" AddressLine2="Building 3" City="Wilsonville" State="Oregon" ZipCode="45342" PhoneNumber="4562317894">
+    <MemberBooks />
+  </Member>
+</ArrayOfMember>

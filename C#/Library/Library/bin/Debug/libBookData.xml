@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibraryBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LibraryBook Title="C# 2010 for Programmers" AuthorFirstName="Paul" AuthorLastName="Deitel" PublishingDate="2012-04-01T00:00:00" ISBN="9780132618205">
+    <BookIdent>
+      <BookIdentification BookId="0" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="2" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="4" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="9 Algorithms That Changed The Future" AuthorFirstName="John" AuthorLastName="MacCormick" PublishingDate="2011-12-27T00:00:00" ISBN="9780691147147">
+    <BookIdent>
+      <BookIdentification BookId="1" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="3" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578">
+          <MemberBooks />
+        </Owner>
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="A Brief History of Time" AuthorFirstName="Stephen" AuthorLastName="Hawking" PublishingDate="1998-09-01T00:00:00" ISBN="9780553380163">
+    <BookIdent>
+      <BookIdentification BookId="5" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="6" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578">
+          <MemberBooks />
+        </Owner>
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="A Demon Haunted World" AuthorFirstName="Carl" AuthorLastName="Sagan" PublishingDate="1997-03-01T00:00:00" ISBN="9780345409461">
+    <BookIdent>
+      <BookIdentification BookId="7" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="I. Robot" AuthorFirstName="Isaac" AuthorLastName="Asimov" PublishingDate="1950-12-02T00:00:00" ISBN="9780586025321">
+    <BookIdent>
+      <BookIdentification BookId="8" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="The Hitchikers Guide to the Galaxy" AuthorFirstName="Douglass" AuthorLastName="Adams" PublishingDate="1995-10-16T00:00:00" ISBN="9780434003488">
+    <BookIdent>
+      <BookIdentification BookId="9" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="10" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578">
+          <MemberBooks />
+        </Owner>
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="The Inverted World" AuthorFirstName="Christopher" AuthorLastName="Priest" PublishingDate="1974-01-01T00:00:00" ISBN="9780060134211">
+    <BookIdent>
+      <BookIdentification BookId="11" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="EVE: The Empyrean Age" AuthorFirstName="Tony" AuthorLastName="Gonzales" PublishingDate="2009-08-13T00:00:00" ISBN="9780575084858">
+    <BookIdent>
+      <BookIdentification BookId="12" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="Physics of the Impossible" AuthorFirstName="Michio" AuthorLastName="Kaku" PublishingDate="2009-04-07T00:00:00" ISBN="9780307278821">
+    <BookIdent>
+      <BookIdentification BookId="13" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="14" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+      <BookIdentification BookId="15" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="The Elegant Universe" AuthorFirstName="Brian" AuthorLastName="Greene" PublishingDate="2000-02-29T00:00:00" ISBN="9780307278821">
+    <BookIdent>
+      <BookIdentification BookId="16" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578">
+          <MemberBooks />
+        </Owner>
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+  <LibraryBook Title="1984" AuthorFirstName="George" AuthorLastName="Orwell" PublishingDate="1950-01-01T00:07:00" ISBN="9780451524935">
+    <BookIdent>
+      <BookIdentification BookId="17" Status="OnHand">
+        <Owner MemberId="1" FirstName="CST236 Library" LastName="Library Inventory" AddressLine1="1457 Institute of Advanced Studies" AddressLine2="Math &amp; Computer Science Department" City="Hillsboro" State="Oregon" ZipCode="97124" PhoneNumber="4501234578" />
+      </BookIdentification>
+    </BookIdent>
+  </LibraryBook>
+</ArrayOfLibraryBook>

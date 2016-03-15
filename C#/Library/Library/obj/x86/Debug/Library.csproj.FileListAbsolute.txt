@@ -1,0 +1,16 @@
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.AddBook.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.AddMember.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.EditMember.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.RemoveBook.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.EditBook.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.MainMenu.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.RemoveMember.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.ViewDetails.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.ViewMemberDetails.resources
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Whitney\Desktop\cst236\Library\Library\Library\obj\x86\Debug\Library.pdb
